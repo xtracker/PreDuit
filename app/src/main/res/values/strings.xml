@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Duit</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="tabTextMessageList">稍后阅读</string>
+    <string name="tabTextMap">推荐</string>
+    <string name="tabTextOthers">杂志</string>
+    <string name="tabTextMe">我</string>
+    <string name="btnTextStratTracking">Start Tracking</string>
+
+</resources>

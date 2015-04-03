@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+    <color name="text_radio_checked">#34ab46</color>
+    <color name="text_radio_normal">#aaaaaa</color>
+    <color name="toolbar_color">#333333</color>
+    <color name="article_title">#000000</color>
+    <color name="article_abstract">#c55f5f5f</color>
+    <color name="itemSeparator">#ffd4d4d4</color>
+    <color name="textHeader">#ffffffff</color>
+</resources>
